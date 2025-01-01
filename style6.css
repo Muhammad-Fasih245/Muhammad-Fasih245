@@ -116,11 +116,14 @@ nav ul li a:hover {
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
+     cursor: pointer;
+     transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
 }
 .destination-item img:hover{
     width: 110%;
     height: 250px;
-    transition: 1 ease;
+   transform: scale(1.05); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 .destination-item h3 {
     margin-top: 15px;
