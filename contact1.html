@@ -11,7 +11,7 @@
             <h1>Gradify</h1>
         </div>
         <ul>
-            <li><a href="index4.html">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="login.php">login</a></li>
             <li><a href="sky.php">Grade Tracker</a></li>
             <li><a href="about1.html">About</a></li>
